@@ -18,34 +18,21 @@ Analytics Dashboard – View saved food, waste reduction stats, and consumption 
 Modern UI – Built using Next.js, Tailwind, and ShadCN with a clean, responsive interface.
 
 🧠 Tech Stack
-
 Frontend
-
 Next.js
-
 React
-
 TailwindCSS
-
 ShadCN UI
-
 Backend
-
 Next.js API Routes
-
 Custom logic for detection, analytics, and inventory
-
 AI / Detection
-
 Custom model integration (via API)
+
+
 🌟 Future Enhancements
-
 Add expiry date prediction using ML
-
 Add barcode scanning
-
 Add freshness scoring
-
 Add user login with profiles
-
 Add cloud storage for images
